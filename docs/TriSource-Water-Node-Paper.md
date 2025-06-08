@@ -46,7 +46,66 @@ This paper lays out the architectural model, energy and water budgets, component
 - High-level diagram
 - Core modules: HydroLens™, MSSC Node™, SPMD Desalination
 - Synergistic feedback loops
+## 2. System Overview
 
+The Tri-Source Water Node is designed as a closed-loop, solar-powered infrastructure system composed of three synergistic modules:
+
+1. **HydroLens™ (Atmospheric Water Generator)**  
+   Uses sorption-based materials (e.g., LiCl-impregnated silica gel) to extract moisture from the air. Solar thermal energy is used to regenerate the sorbent, releasing water vapor which is then condensed into usable liquid.
+
+2. **MSSC Node™ (Microbial Fertility Reactor)**  
+   Processes greywater or agricultural runoff through a microbial biofilter and, optionally, microbial desalination cells (MDCs). This subsystem outputs both treated irrigation water and nutrient-rich compost or biofertilizer.
+
+3. **SPMD Desalination Unit (Solar Membrane Distillation or Hybrid RO)**  
+   Converts brackish or saline water into potable water using low-pressure, solar-driven thermal or PV-powered systems. Brine byproducts are routed back into MDCs or used in halophyte cultivation systems.
+
+---
+
+### 🔁 Core Design Features
+
+- **Closed-Loop Water Reuse**: Atmospheric water, greywater, and saline sources are continuously cycled, filtered, and reused.
+- **Thermal + Microbial Energy**: Leverages both passive solar heat and microbial metabolism for purification and power generation.
+- **Nutrient Cycling**: Outputs compost and biofertility inputs, supporting regenerative agriculture or decentralized food systems.
+- **Modular Scaling**: Each unit is sized for 60–65 liters/day, but can be clustered to serve clinics, farms, or entire micro-villages.
+
+---
+
+### 🧭 System Diagram
+
+Add this as an embedded diagram (recommended as `figures/system-architecture.png`) or use the Mermaid version below if GitHub rendering is preferred:
+
+<pre>
+```mermaid
+flowchart TD
+    Air((Atmospheric Moisture))
+    Solar((Sunlight))
+    Saline[Brackish / Seawater]
+    Greywater[Greywater / Runoff]
+
+    AWH[HydroLens AWH]
+    MSSC[MSSC Node]
+    SPMD[Solar Desalination]
+
+    Potable[Potable Water Storage]
+    NonPotable[Non-Potable Storage]
+    Soil[Soil / Irrigation]
+    Brine[Brine Mgmt / Halophytes]
+    Compost[Nutrient Compost]
+
+    Air --> AWH
+    Saline --> SPMD
+    Greywater --> MSSC
+
+    AWH -->|Condensate| MSSC
+    AWH -->|Potable| Potable
+    MSSC -->|Treated Water| SPMD
+    MSSC -->|Fertility Sludge| Compost
+    MSSC -->|Non-Potable| NonPotable
+    SPMD -->|Freshwater| Potable
+    SPMD -->|Brine| Brine
+
+    Compost --> Soil
+    NonPotable --> Soil
 ---
 
 ## 3. Subsystem Design
