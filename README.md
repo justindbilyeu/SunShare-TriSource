@@ -1,6 +1,3 @@
-# SunShare-TriSource
-Here is your full README.md, ready to paste directly into your GitHub repository:
-
 # 💧 SunShare-TriSource™
 
 **Modular, Regenerative Water Infrastructure for Off-Grid and Climate-Vulnerable Regions**
