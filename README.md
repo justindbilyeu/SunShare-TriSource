@@ -91,5 +91,3 @@ All documentation in this repository is released under the Creative Commons Attr
 This work is part of the broader SunShare Connect™ Initiative, focused on deploying resilient energy, water, connectivity, and education hubs worldwide.
 
 Let’s build it as if the world depends on it—because it does.
-
-Let me know when you're ready for the **pitch deck companion**, **stakeholder cover letter**, or **deployment pilot brief**.
