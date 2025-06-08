@@ -196,6 +196,80 @@ flowchart TD
 
 ---
 
+   ## 9. Why Isn’t Solar Desalination Everywhere?  
+### A Systems-Level Failure Analysis
+
+Despite decades of technological advancement, small-scale solar desalination is not deployed at scale—even in regions facing chronic water scarcity and abundant sunlight. This section explores the systemic, economic, and technical bottlenecks that have prevented widespread adoption of solar-powered drinking water systems, and outlines how the Tri-Source Water Node is designed to overcome them.
+
+---
+
+### 🔧 1. Technology Silos and Fragmentation
+
+Desalination, atmospheric water generation, microbial treatment, and composting are typically developed in isolation. Few systems integrate thermal energy reuse, biological filtration, and potable recovery in one loop. This leads to inefficiency, duplication, and missed synergies.
+
+**Tri-Source Solution**: The Water Node unifies these technologies into a closed-loop system, where outputs from one module become inputs for another—reducing waste, cost, and power demand.
+
+---
+
+### 💰 2. Cost-Per-Liter vs. Centralized Infrastructure
+
+Traditional desalination benefits from economies of scale. Large coastal plants can produce water for <$0.60/m³, while small solar units can range from $2–5/m³ or more. But centralized systems come with transmission losses, political risk, and vulnerability to grid failure.
+
+**Tri-Source Solution**: Target remote or underserved areas where water delivery is already expensive. At $2.50–3.50 per 1,000 liters, the system becomes cost-effective in areas where bottled, trucked, or diesel-pumped water dominates.
+
+---
+
+### 🛠️ 3. Maintenance and Biofouling
+
+Solar stills, membrane distillation units, and even RO membranes are prone to scaling, biofilm buildup, and fouling. Without local maintenance capacity, systems often degrade within months.
+
+**Tri-Source Solution**:
+- MSSC effluent preconditions water before RO/SPMD to reduce membrane load
+- Brine is recycled into heat loops or used in halophyte systems
+- Biofouling is mitigated via passive design, redundancy, and anti-scaling materials
+
+---
+
+### ⚖️ 4. Lack of Policy and Regulatory Incentives
+
+Governments, especially in resource-scarce regions, often subsidize grid-based or municipal water delivery. There's little financial or legislative support for micro-desalination units or decentralized treatment models.
+
+**Tri-Source Opportunity**:
+- Position as climate adaptation and public health infrastructure
+- Align with ESG, SDG 6 (Clean Water & Sanitation), and decentralized development goals
+- Build legal frameworks around water independence and self-sovereign micro-utilities
+
+---
+
+### 🧠 5. Investor Misalignment
+
+VCs and impact funds prefer platforms that scale digitally, not hardware that must be maintained on the ground. Water is seen as a public good with low margins and high friction.
+
+**Tri-Source Opportunity**:
+- Offer a modular asset with high resilience ROI: energy + water + fertility
+- Create investable deployment packages tied to agriculture, schools, and clinics
+- Enable carbon/water credits and biodiversity benefits through compost outputs
+
+---
+
+### 🔁 6. Absence of Integrated Feedback Systems
+
+Few models reuse thermal energy from brine, recycle compost into agriculture, or loop greywater back into biofilters. As a result, most “off-grid” water systems remain linear, fragile, and waste-prone.
+
+**Tri-Source Solution**:
+- Waste heat from SPMD drives AWH sorbent regeneration
+- Greywater runs through MSSC → feeds SPMD → feeds crops
+- Fertility outputs increase soil moisture retention, reducing water demand
+
+---
+
+### 🧭 Conclusion: A New Design Story
+
+Solar desalination is not everywhere—not because the tech is unproven, but because the **design story has been incomplete**. The world needs water systems that are not just efficient, but **symbiotic**—interacting with microbial life, food systems, solar energy, and community scale.
+
+The Tri-Source Water Node is a candidate for that new class of system.  
+Not just infrastructure. **Infrastructure with agency.**
+
 ## 12. Appendix
 
 - Energy modeling assumptions
