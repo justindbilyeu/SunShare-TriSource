@@ -200,3 +200,303 @@ flowchart TD
 ---
 
 © 2025 SunShare Connect Initiative — All rights reserved.
+
+# Tri-Source Water Node™  
+## Regenerative Water Infrastructure for Sovereign Communities  
+*Version 1.1 — Refactored & Ready for Review*  
+
+---
+
+## Executive Summary  
+
+The Tri-Source Water Node™ represents a paradigm shift in decentralized freshwater infrastructure. It unites three water sourcing technologies—atmospheric water harvesting (HydroLens™), microbial greywater cycling (MSSC Node™), and solar desalination (SPMD)—into a closed-loop, solar-powered system optimized for arid, coastal, and off-grid regions.  
+
+This integrated approach addresses not only the technical dimensions of water security but reframes it as a **pathway to community sovereignty**, ecological regeneration, and long-term resilience.  
+
+<!-- TODO: Insert infographic link once published -->
+
+---
+
+## 1. Introduction  
+
+Global water scarcity now affects over 4 billion people annually. While conventional solutions emphasize large-scale desalination and bottled water logistics, these approaches entrench dependency and ecological harm.  
+
+The Tri-Source Water Node™ is designed to reverse this trend by decentralizing water production, leveraging solar energy, and embedding water generation into the daily rhythms of regenerative living.
+
+---
+
+## 1.1 Philosophy of Design: From Scarcity to Sovereignty  
+
+This system is grounded in three ethical imperatives:
+
+- **Water Sovereignty**: Communities should control their water sources, treatment methods, and distribution.
+- **Regenerative Justice**: Water systems must restore degraded ecosystems and support long-term soil fertility.
+- **Open Technology**: Hardware, knowledge, and methods are shared to ensure collective innovation and self-reliance.
+
+---
+
+## 1.2 Core Architecture Overview  
+
+The Tri-Source Node is modular and integrates:
+
+- **HydroLens™ AWH**: Desiccant-based panels using solar PVT for water vapor capture  
+- **MSSC Node™**: Microbial greywater processing → compost/fertility cycling  
+- **SPMD**: Solar-powered membrane distillation for saline or brackish water  
+
+**Solar Array Sizing**: 5–6.5 kW (PVT recommended)  
+**Daily Output Target**: 60–65 liters potable + greywater recycling  
+**Energy Budget**: ≤7 kWh/day under optimized cycling  
+
+<!-- TODO: Add full system diagram with labeled inputs/outputs -->
+
+---
+
+## 2. Modular Subsystems  
+
+### 2.1 HydroLens™ Atmospheric Water Generator  
+
+- **Tech**: LiCl/Silica desiccant with solar-thermal regeneration  
+- **Output**: 2–5 L/day @ 0.4–1.0 kWh/L (field-dependent)  
+- **Thermal Recovery**: Waste heat from PVT reused for sorbent cycling  
+- **Additions Needed**:  
+  <!-- TODO: Add RH threshold performance table -->
+  <!-- TODO: Cite MOF-enhanced AWH papers (e.g., Nature 2021) -->
+
+---
+
+### 2.2 MSSC Node™ Microbial Fertility Reactor  
+
+- **Tech**: Anaerobic + bokashi + aerobic microbial cycling  
+- **Output**:  
+  - Greywater treatment (~40 L/day)  
+  - Biofertilizer (5–10 L/week)  
+  - Compost (vermiculture-optional)  
+- **Energy**: <1 kWh/day + passive thermal staging  
+- **Enhancements**:  
+  - UV-C sterilization stage  
+  - Biofilm voltage reversal mitigation  
+  <!-- TODO: Add brine-compatible bokashi compatibility reference -->
+
+---
+
+### 2.3 Solar Desalination (SPMD)  
+
+- **Options**:  
+  - Solar membrane distillation (MD)  
+  - Hybrid low-pressure RO  
+- **Thermal Source**: Direct from PVT or heat exchange loop  
+- **Brine Strategy**:  
+  - Use in halophyte farming  
+  - Recovery of minerals/salts  
+  - Possible reuse in thermal AWG loops  
+- **Risks**:  
+  - Salt creep and corrosion  
+  - Scaling of MD below 100 L/day  
+  <!-- TODO: Model heat exchanger efficiency + add PCM buffering recommendation -->
+
+---
+
+## 3. Integrated System Flow  
+
+```text
+AWH ➝ potable  
+Greywater ➝ MSSC ➝ irrigation + compost  
+Saline water ➝ SPMD ➝ potable + brine ➝ MSSC or thermal loop
+Here is a refactored and commit-ready version of the TriSource-Water-Node-Paper.md (v1.1), structured for clarity, enhanced narrative flow, and expanded integration points. Inline <!-- TODO --> tags are included for team prompts and technical additions.
+
+⸻
+
+
+
+# Tri-Source Water Node™  
+## Regenerative Water Infrastructure for Sovereign Communities  
+*Version 1.1 — Refactored & Ready for Review*  
+
+---
+
+## Executive Summary  
+
+The Tri-Source Water Node™ represents a paradigm shift in decentralized freshwater infrastructure. It unites three water sourcing technologies—atmospheric water harvesting (HydroLens™), microbial greywater cycling (MSSC Node™), and solar desalination (SPMD)—into a closed-loop, solar-powered system optimized for arid, coastal, and off-grid regions.  
+
+This integrated approach addresses not only the technical dimensions of water security but reframes it as a **pathway to community sovereignty**, ecological regeneration, and long-term resilience.  
+
+<!-- TODO: Insert infographic link once published -->
+
+---
+
+## 1. Introduction  
+
+Global water scarcity now affects over 4 billion people annually. While conventional solutions emphasize large-scale desalination and bottled water logistics, these approaches entrench dependency and ecological harm.  
+
+The Tri-Source Water Node™ is designed to reverse this trend by decentralizing water production, leveraging solar energy, and embedding water generation into the daily rhythms of regenerative living.
+
+---
+
+## 1.1 Philosophy of Design: From Scarcity to Sovereignty  
+
+This system is grounded in three ethical imperatives:
+
+- **Water Sovereignty**: Communities should control their water sources, treatment methods, and distribution.
+- **Regenerative Justice**: Water systems must restore degraded ecosystems and support long-term soil fertility.
+- **Open Technology**: Hardware, knowledge, and methods are shared to ensure collective innovation and self-reliance.
+
+---
+
+## 1.2 Core Architecture Overview  
+
+The Tri-Source Node is modular and integrates:
+
+- **HydroLens™ AWH**: Desiccant-based panels using solar PVT for water vapor capture  
+- **MSSC Node™**: Microbial greywater processing → compost/fertility cycling  
+- **SPMD**: Solar-powered membrane distillation for saline or brackish water  
+
+**Solar Array Sizing**: 5–6.5 kW (PVT recommended)  
+**Daily Output Target**: 60–65 liters potable + greywater recycling  
+**Energy Budget**: ≤7 kWh/day under optimized cycling  
+
+<!-- TODO: Add full system diagram with labeled inputs/outputs -->
+
+---
+
+## 2. Modular Subsystems  
+
+### 2.1 HydroLens™ Atmospheric Water Generator  
+
+- **Tech**: LiCl/Silica desiccant with solar-thermal regeneration  
+- **Output**: 2–5 L/day @ 0.4–1.0 kWh/L (field-dependent)  
+- **Thermal Recovery**: Waste heat from PVT reused for sorbent cycling  
+- **Additions Needed**:  
+  <!-- TODO: Add RH threshold performance table -->
+  <!-- TODO: Cite MOF-enhanced AWH papers (e.g., Nature 2021) -->
+
+---
+
+### 2.2 MSSC Node™ Microbial Fertility Reactor  
+
+- **Tech**: Anaerobic + bokashi + aerobic microbial cycling  
+- **Output**:  
+  - Greywater treatment (~40 L/day)  
+  - Biofertilizer (5–10 L/week)  
+  - Compost (vermiculture-optional)  
+- **Energy**: <1 kWh/day + passive thermal staging  
+- **Enhancements**:  
+  - UV-C sterilization stage  
+  - Biofilm voltage reversal mitigation  
+  <!-- TODO: Add brine-compatible bokashi compatibility reference -->
+
+---
+
+### 2.3 Solar Desalination (SPMD)  
+
+- **Options**:  
+  - Solar membrane distillation (MD)  
+  - Hybrid low-pressure RO  
+- **Thermal Source**: Direct from PVT or heat exchange loop  
+- **Brine Strategy**:  
+  - Use in halophyte farming  
+  - Recovery of minerals/salts  
+  - Possible reuse in thermal AWG loops  
+- **Risks**:  
+  - Salt creep and corrosion  
+  - Scaling of MD below 100 L/day  
+  <!-- TODO: Model heat exchanger efficiency + add PCM buffering recommendation -->
+
+---
+
+## 3. Integrated System Flow  
+
+```text
+AWH ➝ potable  
+Greywater ➝ MSSC ➝ irrigation + compost  
+Saline water ➝ SPMD ➝ potable + brine ➝ MSSC or thermal loop  
+
+Synergies:
+	•	Waste heat from AWH powers MD
+	•	Compost and microbial heat used for pre-treatment
+	•	Shared battery bank powers sensors + pumps
+
+<!-- TODO: Visual system map with loop closures -->
+
+
+
+
+⸻
+
+4. Deployment and Economic Considerations
+
+4.1 Target Environments
+	•	Coastal desalination zones (India, Namibia, Philippines)
+	•	High-RH inland climates for AWG
+	•	Remote clinics, schools, permaculture villages
+
+4.2 Costs (2024–25 Estimates)
+
+Component	Cost Range ($USD)	Source Regions
+PVT Panels (1kW)	$750–$1,200	India, NA, Africa
+MD Unit (50 L/day)	$900–$1,800	NEWater, Applied Membranes
+AWH Module (10 L/day)	$600–$1,000	SOURCE, Innovaqua
+MSSC Unit	$350–$750	LibreWater, DIY kits
+Batteries (LiFePO₄)	$250/kWh	Gennex, RUiXU
+
+	•	LCOW (Levelized Cost of Water): $2.50–$3.50/m³
+	•	Payback Timeline: 3–7 years depending on use case and water demand
+	•	Pilot Scale: 65 L/day → Pathway to 500 L/day versions
+
+<!-- TODO: Benchmark against Hydra System and Chilean PV-RO trials -->
+
+
+
+
+⸻
+
+5. Risk Analysis and Red-Team Notes
+
+Risk Type	Description/Impact	Mitigation Strategy
+Salt Creep (SPMD)	Crystallization → corrosion	Use HDPE + brine heat loop
+Sorbent Decay	Cycle fatigue in LiCl/silica	Monitor RH + radiative cooling
+Biofouling (MSSC)	Biofilm clogging or reversal	Add ultrasonic cleaning or pre-filter
+Regulatory Barriers	Local restrictions on compost greywater	Pilot site w/ local gov MOUs
+
+<!-- TODO: Add social resistance scenarios (e.g. biological skepticism, elite capture) -->
+
+
+
+
+⸻
+
+6. Community-Driven Implementation Pathways
+
+This system is not a product—it’s an invitation to co-create water sovereignty.
+	•	Co-Design Protocols
+	•	Local material sourcing
+	•	Indigenous knowledge integration
+	•	Ownership models (coop or trust-based)
+	•	Training & Support
+	•	Visual manuals
+	•	Remote diagnostics w/ low-bandwidth mesh Wi-Fi
+	•	Optional mobile classroom deployment
+
+⸻
+
+7. Next Steps and Call to Collaboration
+	•	v1.1 Validation: Simulate PVT-MD efficiency, RH-response curves, and flow diagrams
+	•	Pilot Deployment: Coastal Tamil Nadu, Gulf of Mexico, or Namibia
+	•	Open Hardware Release: CAD + BoM + assembly guides → LibreWater + GitHub
+
+Together, we are not just building water infrastructure—we are restoring agency, fertility, and future.
+
+⸻
+
+References
+
+<!-- TODO: Full BibTeX-formatted reference file pending -->
+
+
+	•	World Bank (2022). Decentralized Desalination Economics
+	•	Nature (2021). MOFs for Atmospheric Water Harvesting
+	•	Sci. Total Environ. (2022). Brine-to-Agriculture Systems
+	•	Renew. Energy (2023). Off-Grid Desalination Sizing
+
+⸻
+
+Would you like to push this version to GitHub as a commit message or should we prepare the reference file and diagrams first?
