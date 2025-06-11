@@ -16,4 +16,5 @@ title: Tri-Source Water Node™
 - Modular deployment for farms, schools, and remote villages
 - Solar-driven resilience for potable, non-potable, and irrigation water
 
-🔗 [View full documentation](https://github.com/justindbilyeu/SunShare-TriSource/wiki/Tri-Source-Water-Node)
+🔗 [View full documentation](https://github.com/justindbilyeu/SunShare-TriSource/wiki)
+
