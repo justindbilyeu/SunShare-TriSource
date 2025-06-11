@@ -12,9 +12,9 @@ title: Tri-Source Water Node™
 - **SPMD Desalination** (Solar-Powered Membrane Distillation or Hybrid RO)
 
 ### Key Innovations:
-- Closed-loop microbial cycling and thermal reuse
-- Modular deployment for farms, schools, and remote villages
+- Closed-loop microbial cycling and thermal reuse  
+- Modular deployment for farms, schools, and remote villages  
 - Solar-driven resilience for potable, non-potable, and irrigation water
 
-🔗 [View full documentation]([Read More](./Tri-Source-Water-Node)
+🔗 [View Full Documentation](https://justindbilyeu.github.io/SunShare-TriSource/Tri-Source-Water-Node)
 
