@@ -1,0 +1,22 @@
+name: build-doc-index
+on:
+  push:
+    paths:
+      - "docs/**"          # trigger only when docs change
+  workflow_dispatch:       # manual “Run workflow” button
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pymarkdownlint bibtexparser
+      - name: Build TOC & BibTeX
+        run: python scripts/build_index.py
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "docs/INDEX.md docs/REFERENCES.bib"
+          message: "chore(docs): auto-update index & bibliography"
