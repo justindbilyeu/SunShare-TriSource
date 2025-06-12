@@ -1,5 +1,5 @@
-Absract: Bibliography & Scientific Sources
-title: Bibliography & Scientific Sources
+Absract Bibliography & Scientific Sources
+
 ---
 
 # 📚 SunShare Scientific Bibliography
