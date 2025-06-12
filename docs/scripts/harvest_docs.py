@@ -56,3 +56,22 @@ for file in sorted(DOCS.rglob("*")):
 (DOCS / "tags.json").write_text(json.dumps(tag_map, indent=2))
 with open(DOCS / "REFERENCES.bib", "w") as fh:
     bibtexparser.dump(bib_db, fh)
+TAG_ALIAS = {
+    "edge ai": "edge_ai",
+    "ai edge": "edge_ai",
+    "awg": "atmospheric_water",
+}
+for t in abs_tags:
+    tag_map[TAG_ALIAS.get(t, t)].append(str(rel))
+    import tabula, pandas as pd, subprocess, tempfile
+
+if file.suffix.lower() == ".pdf" and "energy" in file.stem.lower():
+    try:
+        dfs = tabula.read_pdf(file.as_posix(), pages="all", lattice=True)
+        for i, df in enumerate(dfs):
+            out = pathlib.Path("analysis") / f"{rel.stem}_table{i}.csv"
+            out.parent.mkdir(exist_ok=True)
+            df.to_csv(out, index=False)
+    except Exception as e:
+        print("Tabula failed:", e)
+    
