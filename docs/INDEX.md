@@ -2,7 +2,7 @@
 
 _Updated: 2025-06-12_
 
-* [AnalysisTriSource.txt](AnalysisTriSource.txt) — ⚠️ NO ABSTRACT
+* [AnalysisTriSource.txt](AnalysisTriSource.txt) — High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
 * [Bibliography.md](Bibliography.md) — ⚠️ NO ABSTRACT
 * [Compostandcomposttea-Principlesprospectsassubstratesa....pdf](Compostandcomposttea-Principlesprospectsassubstratesa....pdf) — ⚠️ NO ABSTRACT
 * [DESAL_REPORT.md](DESAL_REPORT.md) — ⚠️ NO ABSTRACT
@@ -12,10 +12,12 @@ _Updated: 2025-06-12_
 * [HomeNode Sims](HomeNode Sims) — ⚠️ NO ABSTRACT
 * [HomeNodeResearch.pdf](HomeNodeResearch.pdf) — ⚠️ NO ABSTRACT
 * [HydroLensResearch.pdf](HydroLensResearch.pdf) — ⚠️ NO ABSTRACT
+* [INDEX.md](INDEX.md) — ⚠️ NO ABSTRACT
 * [MSSC-Node.md](MSSC-Node.md) — ⚠️ NO ABSTRACT
 * [MSSC_research.pdf](MSSC_research.pdf) — ⚠️ NO ABSTRACT
 * [POA](POA) — ⚠️ NO ABSTRACT
 * [Patents-and-IP.md](Patents-and-IP.md) — ⚠️ NO ABSTRACT
+* [REFERENCES.bib](REFERENCES.bib) — ⚠️ NO ABSTRACT
 * [Salt Precipitation Order in Concentrating Brine.png](Salt Precipitation Order in Concentrating Brine.png) — ⚠️ NO ABSTRACT
 * [SchoolShare.pdf](SchoolShare.pdf) — ⚠️ NO ABSTRACT
 * [SchoolShareMeta.pdf](SchoolShareMeta.pdf) — ⚠️ NO ABSTRACT
