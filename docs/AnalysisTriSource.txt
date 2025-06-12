@@ -1,3 +1,5 @@
+Abstract: High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
+
 Strategic Analysis of the Tri-Source Water Node™: A Globally Scalable, Modular Water Infrastructure System
 Executive Summary
 The Tri-Source Water Node™ represents a pioneering modular, solar-powered, and regenerative water infrastructure system designed to address escalating global water scarcity, soil degradation, and energy access challenges. This innovative system uniquely integrates three core technologies: atmospheric water harvesting (HydroLens™), microbial water treatment and fertility cycling (MSSC Node™), and solar-powered desalination (SPMD). By forming a closed-loop infrastructure for water generation, reuse, and nutrient recovery, the Tri-Source Node delivers clean water and enriches soils without reliance on external chemicals or fossil fuels.
