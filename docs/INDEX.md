@@ -3,7 +3,7 @@
 _Updated: 2025-06-12_
 
 * [AnalysisTriSource.txt](AnalysisTriSource.txt) — High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
-* [Bibliography.md](Bibliography.md) — ⚠️ NO ABSTRACT
+* [Bibliography.md](Bibliography.md) — Annotated and curated reference index for the SunShare Tri-Source and Home Node systems, including desalination, atmospheric water generation, microbial cycling, and solar-powered resilience infrastructure.
 * [Compostandcomposttea-Principlesprospectsassubstratesa....pdf](Compostandcomposttea-Principlesprospectsassubstratesa....pdf) — ⚠️ NO ABSTRACT
 * [DESAL_REPORT.md](DESAL_REPORT.md) — # 📑 Desalination Report
 * [DeSalPaperproof.pdf](DeSalPaperproof.pdf) — ⚠️ NO ABSTRACT
