@@ -3,7 +3,7 @@
 _Updated: 2025-06-12_
 
 * [AnalysisTriSource.txt](AnalysisTriSource.txt) — High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
-* [Bibliography.md](Bibliography.md) — ⚠️ NO ABSTRACT
+* [Bibliography.html](Bibliography.html) — ⚠️ NO ABSTRACT
 * [Compostandcomposttea-Principlesprospectsassubstratesa....pdf](Compostandcomposttea-Principlesprospectsassubstratesa....pdf) — ⚠️ NO ABSTRACT
 * [DESAL_REPORT.md](DESAL_REPORT.md) — ⚠️ NO ABSTRACT
 * [DeSalPaperproof.pdf](DeSalPaperproof.pdf) — ⚠️ NO ABSTRACT
