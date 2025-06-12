@@ -1,0 +1,31 @@
+name: harvest-docs
+on:
+  push:
+    paths:
+      - "docs/**"
+  workflow_dispatch:
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install pypdf2 python-frontmatter markdown bibtexparser nltk scikit-learn tabula-py pandas
+
+      - name: Run harvest script
+        run: python scripts/harvest_docs.py
+
+      - name: Commit generated artefacts
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "docs/INDEX.md docs/ANNOTATED_BIB.md docs/tags.json analysis/*.csv"
+          message: "chore(docs): auto-harvest metadata & tables"
