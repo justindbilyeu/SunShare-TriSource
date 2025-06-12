@@ -1,0 +1,33 @@
+# .github/workflows/docs-index.yml
+name: build-doc-index
+on:
+  push:
+    paths:
+      - "docs/**"          # only trigger when something in /docs changes
+  workflow_dispatch:       # button you can press manually in the UI
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+
+      # 1. Check out the repo
+      - uses: actions/checkout@v4
+
+      # 2. Set up Python (any version ≥3.10 is fine)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Install helper libs
+      - run: pip install pymarkdownlint bibtexparser
+
+      # 4. Run our indexing script
+      - name: Build TOC & BibTeX
+        run: python scripts/build_index.py
+
+      # 5. Commit the changes (if any) back to the branch
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "docs/INDEX.md docs/REFERENCES.bib"
+          message: "chore(docs): auto-update index & bibliography"
