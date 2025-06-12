@@ -8,7 +8,7 @@ _Updated: 2025-06-12_
 * [DESAL_REPORT.md](DESAL_REPORT.md) — # 📑 Desalination Report
 * [DeSalPaperproof.pdf](DeSalPaperproof.pdf) — ⚠️ NO ABSTRACT
 * [DesalPaper.pdf](DesalPaper.pdf) — ⚠️ NO ABSTRACT
-* [Expansion-Vectors.md](Expansion-Vectors.md) — ⚠️ NO ABSTRACT
+* [Expansion-Vectors.html](Expansion-Vectors.html) — ⚠️ NO ABSTRACT
 * [HomeNode Sims](HomeNode Sims) — ⚠️ NO ABSTRACT
 * [HomeNodeResearch.pdf](HomeNodeResearch.pdf) — ⚠️ NO ABSTRACT
 * [HydroLensResearch.pdf](HydroLensResearch.pdf) — ⚠️ NO ABSTRACT
