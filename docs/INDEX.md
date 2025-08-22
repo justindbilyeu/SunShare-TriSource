@@ -1,11 +1,11 @@
 # 📚 Docs Index (auto-generated)
 
-_Updated: 2025-06-12_
+_Updated: 2025-08-22_
 
 * [AnalysisTriSource.txt](AnalysisTriSource.txt) — High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
 * [Bibliography.md](Bibliography.md) — Annotated and curated reference index for the SunShare Tri-Source and Home Node systems, including desalination, atmospheric water generation, microbial cycling, and solar-powered resilience infrastructure.
 * [Compostandcomposttea-Principlesprospectsassubstratesa....pdf](Compostandcomposttea-Principlesprospectsassubstratesa....pdf) — ⚠️ NO ABSTRACT
-* [DESAL_REPORT.md](DESAL_REPORT.md) — # 📑 Desalination Report
+* [DESAL_REPORT.md](DESAL_REPORT.md) — ⚠️ NO ABSTRACT
 * [DeSalPaperproof.pdf](DeSalPaperproof.pdf) — ⚠️ NO ABSTRACT
 * [DesalPaper.pdf](DesalPaper.pdf) — ⚠️ NO ABSTRACT
 * [Expansion-Vectors.html](Expansion-Vectors.html) — ⚠️ NO ABSTRACT
@@ -49,6 +49,7 @@ _Updated: 2025-06-12_
 * [TrisourceWaterNode.pdf](TrisourceWaterNode.pdf) — ⚠️ NO ABSTRACT
 * [Trisourcewaternodepaper.pdf](Trisourcewaternodepaper.pdf) — ⚠️ NO ABSTRACT
 * [a1053862-cae3-4453-bfdd-ceb19a666f02.png](a1053862-cae3-4453-bfdd-ceb19a666f02.png) — ⚠️ NO ABSTRACT
+* [appendix.md](appendix.md) — ⚠️ NO ABSTRACT
 * [config.yml](config.yml) — ⚠️ NO ABSTRACT
 * [index.md](index.md) — ⚠️ NO ABSTRACT
 * [nojekyll](nojekyll) — ⚠️ NO ABSTRACT
