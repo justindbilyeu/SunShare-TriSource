@@ -1,7 +1,16 @@
 # 📚 Docs Index (auto-generated)
 
-_Updated: 2025-08-22_
+_Updated: 2025-08-28_
 
+* [01_Introduction.txt](01_Introduction.txt) — ⚠️ NO ABSTRACT
+* [02_Microbial_Communication.txt](02_Microbial_Communication.txt) — ⚠️ NO ABSTRACT
+* [03_Symbiotic_AI.txt](03_Symbiotic_AI.txt) — ⚠️ NO ABSTRACT
+* [04_Quantum_Biology.txt](04_Quantum_Biology.txt) — ⚠️ NO ABSTRACT
+* [05_Cognitive_Archaeology.txt](05_Cognitive_Archaeology.txt) — ⚠️ NO ABSTRACT
+* [06_Metaphor_Language.txt](06_Metaphor_Language.txt) — ⚠️ NO ABSTRACT
+* [07_Ancient_Texts.txt](07_Ancient_Texts.txt) — ⚠️ NO ABSTRACT
+* [08_BioPoetics_Decomposition.txt](08_BioPoetics_Decomposition.txt) — ⚠️ NO ABSTRACT
+* [09_Conclusion.txt](09_Conclusion.txt) — ⚠️ NO ABSTRACT
 * [AnalysisTriSource.txt](AnalysisTriSource.txt) — High-level numeric comparison of AWH, MD, and RO energy budgets for the Tri-Source concept (v1.2 data set).
 * [Bibliography.md](Bibliography.md) — Annotated and curated reference index for the SunShare Tri-Source and Home Node systems, including desalination, atmospheric water generation, microbial cycling, and solar-powered resilience infrastructure.
 * [Compostandcomposttea-Principlesprospectsassubstratesa....pdf](Compostandcomposttea-Principlesprospectsassubstratesa....pdf) — ⚠️ NO ABSTRACT
@@ -12,6 +21,7 @@ _Updated: 2025-08-22_
 * [HomeNode Sims](HomeNode Sims) — ⚠️ NO ABSTRACT
 * [HomeNodeResearch.pdf](HomeNodeResearch.pdf) — ⚠️ NO ABSTRACT
 * [HydroLensResearch.pdf](HydroLensResearch.pdf) — ⚠️ NO ABSTRACT
+* [IMG_0300.jpeg](IMG_0300.jpeg) — ⚠️ NO ABSTRACT
 * [INDEX.md](INDEX.md) — ⚠️ NO ABSTRACT
 * [MSSC-Node.md](MSSC-Node.md) — ⚠️ NO ABSTRACT
 * [MSSC_research.pdf](MSSC_research.pdf) — ⚠️ NO ABSTRACT
@@ -35,6 +45,8 @@ _Updated: 2025-08-22_
 * [SunShare_TechStack.md](SunShare_TechStack.md) — ⚠️ NO ABSTRACT
 * [SunShare_Technology_Expansion_Packet.docx](SunShare_Technology_Expansion_Packet.docx) — ⚠️ NO ABSTRACT
 * [SunShare_Visionary_Notes.md](SunShare_Visionary_Notes.md) — ⚠️ NO ABSTRACT
+* [The_Third_Language_FULL_RESEARCH.zip](The_Third_Language_FULL_RESEARCH.zip) — ⚠️ NO ABSTRACT
+* [The_Third_Language_Research_Report.txt](The_Third_Language_Research_Report.txt) — ⚠️ NO ABSTRACT
 * [Tri-Source-Full-Documentation.md](Tri-Source-Full-Documentation.md) — ⚠️ NO ABSTRACT
 * [Tri-Source-Water-Node.md](Tri-Source-Water-Node.md) — ⚠️ NO ABSTRACT
 * [TriSource-Water-Node-Paper.md](TriSource-Water-Node-Paper.md) — ⚠️ NO ABSTRACT
