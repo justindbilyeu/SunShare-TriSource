@@ -17,7 +17,7 @@ producing bio-nutrient o
 ## docs/DESAL_REPORT.md
 
 ```text
-# 📑 Desalination Report (auto-generated)  _Updated 2025-08-12_  > Shows every repo file that
+# 📑 Desalination Report (auto-generated)  _Updated 2025-09-01_  > Shows every repo file that
 mentions desalination or related terms.  ## README.md  ```text ework for the **Tri-Source Water
 Node™** — a closed-loop, so
 ```
