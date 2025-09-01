@@ -63,6 +63,7 @@ _Updated: 2025-09-01_
 * [a1053862-cae3-4453-bfdd-ceb19a666f02.png](a1053862-cae3-4453-bfdd-ceb19a666f02.png) — ⚠️ NO ABSTRACT
 * [appendix.md](appendix.md) — ⚠️ NO ABSTRACT
 * [config.yml](config.yml) — ⚠️ NO ABSTRACT
+* [desal/FundingTracker.md](desal/FundingTracker.md) — ⚠️ NO ABSTRACT
 * [desal/ProjectRadar.csv](desal/ProjectRadar.csv) — ⚠️ NO ABSTRACT
 * [desal/TechRanges.csv](desal/TechRanges.csv) — ⚠️ NO ABSTRACT
 * [index.md](index.md) — ⚠️ NO ABSTRACT
