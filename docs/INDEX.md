@@ -1,6 +1,6 @@
 # 📚 Docs Index (auto-generated)
 
-_Updated: 2025-08-28_
+_Updated: 2025-09-01_
 
 * [01_Introduction.txt](01_Introduction.txt) — ⚠️ NO ABSTRACT
 * [02_Microbial_Communication.txt](02_Microbial_Communication.txt) — ⚠️ NO ABSTRACT
@@ -63,6 +63,7 @@ _Updated: 2025-08-28_
 * [a1053862-cae3-4453-bfdd-ceb19a666f02.png](a1053862-cae3-4453-bfdd-ceb19a666f02.png) — ⚠️ NO ABSTRACT
 * [appendix.md](appendix.md) — ⚠️ NO ABSTRACT
 * [config.yml](config.yml) — ⚠️ NO ABSTRACT
+* [desal](desal) — ⚠️ NO ABSTRACT
 * [index.md](index.md) — ⚠️ NO ABSTRACT
 * [nojekyll](nojekyll) — ⚠️ NO ABSTRACT
 * [💧 Tri-Source Water Node™.pdf](💧 Tri-Source Water Node™.pdf) — ⚠️ NO ABSTRACT
