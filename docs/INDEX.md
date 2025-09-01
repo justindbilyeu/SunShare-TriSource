@@ -64,6 +64,7 @@ _Updated: 2025-09-01_
 * [appendix.md](appendix.md) — ⚠️ NO ABSTRACT
 * [config.yml](config.yml) — ⚠️ NO ABSTRACT
 * [desal/ProjectRadar.csv](desal/ProjectRadar.csv) — ⚠️ NO ABSTRACT
+* [desal/TechRanges.csv](desal/TechRanges.csv) — ⚠️ NO ABSTRACT
 * [index.md](index.md) — ⚠️ NO ABSTRACT
 * [nojekyll](nojekyll) — ⚠️ NO ABSTRACT
 * [💧 Tri-Source Water Node™.pdf](💧 Tri-Source Water Node™.pdf) — ⚠️ NO ABSTRACT
